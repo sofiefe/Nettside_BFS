@@ -1,0 +1,54 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+IP Address: 172.28.13.104
+IP Address: 129.241.205.173
+Extension host agent listening on 39859
+
+
+[19:42:52] Extension host agent started.
+[19:42:56] [127.0.0.1][9276e611][ManagementConnection] New connection established.
+[19:42:56] [127.0.0.1][b54984be][ExtensionHostConnection] New connection established.
+bash: klarte ikke å velge terminal-prosessgruppe (-1): Uegnet «ioctl» for enhet
+bash: ingen jobbkontroll i dette skallet
+[19:42:56] [127.0.0.1][b54984be][ExtensionHostConnection] <49824> Launched Extension Host Process.
+[19:43:09] [127.0.0.1][9276e611][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[19:43:10] [127.0.0.1][b54984be][ExtensionHostConnection] <49824> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[19:43:10] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[19:43:18] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[19:43:18] Cancelling previous shutdown timeout
+[19:43:18] [127.0.0.1][c507b3ae][ManagementConnection] New connection established.
+[19:43:18] [127.0.0.1][9cb8c4d0][ExtensionHostConnection] New connection established.
+[19:43:18] [127.0.0.1][9cb8c4d0][ExtensionHostConnection] <51048> Launched Extension Host Process.
+[19:43:19] [File Watcher (chokidar)] Error: ELOOP: too many symbolic links encountered, stat '/home/gruppe13/nettside/nettside'
+[19:43:35] [127.0.0.1][c507b3ae][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[19:43:36] [127.0.0.1][9cb8c4d0][ExtensionHostConnection] <51048> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[19:43:36] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[19:43:36] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[19:43:44] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[19:43:44] Cancelling previous shutdown timeout
+[19:43:44] [127.0.0.1][d75c0277][ManagementConnection] New connection established.
+[19:43:44] [127.0.0.1][ff7ce366][ExtensionHostConnection] New connection established.
+[19:43:44] [127.0.0.1][ff7ce366][ExtensionHostConnection] <52587> Launched Extension Host Process.
+[19:44:53] [127.0.0.1][d75c0277][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[19:44:54] [127.0.0.1][ff7ce366][ExtensionHostConnection] <52587> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[19:44:54] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[19:44:54] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[19:49:54] Last EH closed, shutting down

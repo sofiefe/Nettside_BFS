@@ -1,0 +1,48 @@
+[2020-11-12 08:51:01.202] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-11-12 08:51:01.202] [remoteagent] [info] Extension host agent started.
+[2020-11-12 08:51:01.489] [remoteagent] [info] [127.0.0.1][d96c835d][ManagementConnection] New connection established.
+[2020-11-12 08:51:01.492] [remoteagent] [info] [127.0.0.1][7d86d13b][ExtensionHostConnection] New connection established.
+[2020-11-12 08:51:01.636] [remoteagent] [info] [127.0.0.1][7d86d13b][ExtensionHostConnection] <100946> Launched Extension Host Process.
+[2020-11-12 08:51:03.821] [remoteagent] [info] Installing extension: ms-python.python
+[2020-11-12 08:51:06.039] [remoteagent] [info] Downloaded extension: ms-python.python undefined
+[2020-11-12 08:51:11.543] [remoteagent] [info] Extracted extension to /home/gruppe13/.vscode-server/extensions/.ms-python.python-2020.11.358366026: ms-python.python
+[2020-11-12 08:51:11.544] [remoteagent] [info] Renamed to /home/gruppe13/.vscode-server/extensions/ms-python.python-2020.11.358366026
+[2020-11-12 08:51:11.561] [remoteagent] [info] Installation completed. ms-python.python
+[2020-11-12 08:51:11.943] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2020-11-12 08:51:14.928] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter undefined
+[2020-11-12 08:51:17.649] [remoteagent] [info] Extracted extension to /home/gruppe13/.vscode-server/extensions/.ms-toolsai.jupyter-2020.11.358541065: ms-toolsai.jupyter
+[2020-11-12 08:51:17.650] [remoteagent] [info] Renamed to /home/gruppe13/.vscode-server/extensions/ms-toolsai.jupyter-2020.11.358541065
+[2020-11-12 08:51:17.660] [remoteagent] [info] Installation completed. ms-toolsai.jupyter
+[2020-11-12 08:51:17.755] [remoteagent] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2020-11-12 08:51:17.851] [remoteagent] [info] Extensions installed successfully: ms-python.python
+[2020-11-12 08:51:32.289] [remoteagent] [info] [127.0.0.1][d96c835d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-11-12 08:51:33.326] [remoteagent] [info] [127.0.0.1][7d86d13b][ExtensionHostConnection] <100946> Extension Host Process exited with code: 0, signal: null.
+[2020-11-12 08:51:33.327] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-11-12 08:51:40.184] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-11-12 08:51:40.184] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-11-12 08:51:40.379] [remoteagent] [info] [127.0.0.1][fd08bc06][ManagementConnection] New connection established.
+[2020-11-12 08:51:40.382] [remoteagent] [info] [127.0.0.1][d3b7a721][ExtensionHostConnection] New connection established.
+[2020-11-12 08:51:40.398] [remoteagent] [info] [127.0.0.1][d3b7a721][ExtensionHostConnection] <102907> Launched Extension Host Process.
+[2020-11-12 08:51:40.429] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-11-12 08:51:41.415] [remoteagent] [warning] [File Watcher (chokidar)] Error: ELOOP: too many symbolic links encountered, stat '/home/gruppe13/nettside/nettside'
+[2020-11-12 08:56:40.187] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-11-12 11:29:25.209] [remoteagent] [info] [127.0.0.1][fd08bc06][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-11-12 12:54:27.927] [remoteagent] [info] [127.0.0.1][fd08bc06][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2020-11-12 12:54:27.929] [remoteagent] [info] [127.0.0.1][b4dd6eba][ExtensionHostConnection] New connection established.
+[2020-11-12 12:54:27.930] [remoteagent] [info] [127.0.0.1][1597ff4f][ManagementConnection] New connection established.
+[2020-11-12 12:54:27.948] [remoteagent] [info] [127.0.0.1][b4dd6eba][ExtensionHostConnection] <50146> Launched Extension Host Process.
+[2020-11-12 12:54:27.969] [remoteagent] [info] Listing 2 persistent terminals, 2 total terminals
+[2020-11-12 12:54:28.838] [remoteagent] [warning] [File Watcher (chokidar)] Error: ELOOP: too many symbolic links encountered, stat '/home/gruppe13/nettside/nettside'
+[2020-11-12 12:54:32.157] [remoteagent] [info] Replaying 4588 chars and 4 size events.
+[2020-11-12 12:54:32.158] [remoteagent] [info] Replaying 3543 chars and 1 size events.
+[2020-11-12 12:59:27.930] [remoteagent] [info] [127.0.0.1][fd08bc06][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2020-11-12 12:59:29.041] [remoteagent] [info] [127.0.0.1][d3b7a721][ExtensionHostConnection] <102907> Extension Host Process exited with code: 0, signal: null.

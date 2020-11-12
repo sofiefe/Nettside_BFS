@@ -1,0 +1,22 @@
+[2020-11-12 12:54:29.529] [exthost] [info] extension host started
+[2020-11-12 12:54:29.728] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2020-11-12 12:54:29.729] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/extensions/ms-toolsai.jupyter-2020.11.358541065/out/client/extension
+[2020-11-12 12:54:30.268] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-11-12 12:54:30.268] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/bin/fcac248b077b55bae4ba5bab613fd6e9156c2f0c/extensions/debug-auto-launch/dist/extension
+[2020-11-12 12:54:30.275] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-11-12 12:54:30.275] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/bin/fcac248b077b55bae4ba5bab613fd6e9156c2f0c/extensions/emmet/dist/node/emmetNodeMain
+[2020-11-12 12:54:30.339] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-12 12:54:30.339] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/bin/fcac248b077b55bae4ba5bab613fd6e9156c2f0c/extensions/git/dist/main
+[2020-11-12 12:54:30.451] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-11-12 12:54:30.452] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/bin/fcac248b077b55bae4ba5bab613fd6e9156c2f0c/extensions/merge-conflict/dist/mergeConflictMain
+[2020-11-12 12:54:30.461] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-11-12 12:54:30.461] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/bin/fcac248b077b55bae4ba5bab613fd6e9156c2f0c/extensions/search-result/dist/extension.js
+[2020-11-12 12:54:30.691] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-12 12:54:30.691] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/bin/fcac248b077b55bae4ba5bab613fd6e9156c2f0c/extensions/github/dist/extension.js
+[2020-11-12 12:54:32.417] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2020-11-12 12:54:32.417] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/extensions/ms-python.python-2020.11.358366026/out/client/extension
+[2020-11-12 12:54:33.166] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2020-11-12 12:54:33.166] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/bin/fcac248b077b55bae4ba5bab613fd6e9156c2f0c/extensions/ms-vscode.js-debug/src/extension.js
+[2020-11-12 12:54:33.606] [exthost] [info] eager extensions activated
+[2020-11-12 12:56:08.696] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-11-12 12:56:08.696] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/bin/fcac248b077b55bae4ba5bab613fd6e9156c2f0c/extensions/html-language-features/client/dist/node/htmlClientMain

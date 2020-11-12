@@ -1,0 +1,78 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+IP Address: 172.28.13.104
+IP Address: 129.241.205.173
+Extension host agent listening on 45303
+
+
+[08:51:01] Extension host agent started.
+[08:51:01] [127.0.0.1][d96c835d][ManagementConnection] New connection established.
+[08:51:01] [127.0.0.1][7d86d13b][ExtensionHostConnection] New connection established.
+bash: klarte ikke å velge terminal-prosessgruppe (-1): Uegnet «ioctl» for enhet
+bash: ingen jobbkontroll i dette skallet
+[08:51:01] [127.0.0.1][7d86d13b][ExtensionHostConnection] <100946> Launched Extension Host Process.
+[08:51:03] Installing extension: ms-python.python
+[08:51:06] Downloaded extension: ms-python.python undefined
+[08:51:11] Extracted extension to /home/gruppe13/.vscode-server/extensions/.ms-python.python-2020.11.358366026: ms-python.python
+[08:51:11] Renamed to /home/gruppe13/.vscode-server/extensions/ms-python.python-2020.11.358366026
+[08:51:11] Installation completed. ms-python.python
+[08:51:11] Installing extension: ms-toolsai.jupyter
+[08:51:14] Downloaded extension: ms-toolsai.jupyter undefined
+[08:51:17] Extracted extension to /home/gruppe13/.vscode-server/extensions/.ms-toolsai.jupyter-2020.11.358541065: ms-toolsai.jupyter
+[08:51:17] Renamed to /home/gruppe13/.vscode-server/extensions/ms-toolsai.jupyter-2020.11.358541065
+[08:51:17] Installation completed. ms-toolsai.jupyter
+[08:51:17] Extensions installed successfully: ms-toolsai.jupyter
+[08:51:17] Extensions installed successfully: ms-python.python
+[08:51:32] [127.0.0.1][d96c835d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[08:51:33] [127.0.0.1][7d86d13b][ExtensionHostConnection] <100946> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[08:51:33] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[08:51:40] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[08:51:40] Cancelling previous shutdown timeout
+[08:51:40] [127.0.0.1][fd08bc06][ManagementConnection] New connection established.
+[08:51:40] [127.0.0.1][d3b7a721][ExtensionHostConnection] New connection established.
+[08:51:40] [127.0.0.1][d3b7a721][ExtensionHostConnection] <102907> Launched Extension Host Process.
+[08:51:40] Listing 0 persistent terminals, 0 total terminals
+[08:51:41] [File Watcher (chokidar)] Error: ELOOP: too many symbolic links encountered, stat '/home/gruppe13/nettside/nettside'
+New EH opened, aborting shutdown
+[08:56:40] New EH opened, aborting shutdown
+rejected promise not handled within 1 second: Error: EACCES: permission denied, lstat '/tmp/0c753c3e-fa68-44c0-aea7-21d1ce37b6f2/db.sqlite3'
+stack trace: Error: EACCES: permission denied, lstat '/tmp/0c753c3e-fa68-44c0-aea7-21d1ce37b6f2/db.sqlite3'
+[Error: EACCES: permission denied, lstat '/tmp/0c753c3e-fa68-44c0-aea7-21d1ce37b6f2/db.sqlite3'] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'lstat',
+  path: '/tmp/0c753c3e-fa68-44c0-aea7-21d1ce37b6f2/db.sqlite3'
+}
+rejected promise not handled within 1 second: Error: EACCES: permission denied, lstat '/tmp/23b5a8d4-b612-499e-b017-ef55b7f05e06/db.sqlite3'
+stack trace: Error: EACCES: permission denied, lstat '/tmp/23b5a8d4-b612-499e-b017-ef55b7f05e06/db.sqlite3'
+[Error: EACCES: permission denied, lstat '/tmp/23b5a8d4-b612-499e-b017-ef55b7f05e06/db.sqlite3'] {
+  errno: -13,
+  code: 'EACCES',
+  syscall: 'lstat',
+  path: '/tmp/23b5a8d4-b612-499e-b017-ef55b7f05e06/db.sqlite3'
+}
+[11:29:25] [127.0.0.1][fd08bc06][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/gruppe13/.vscode-server/bin/fcac248b077b55bae4ba5bab613fd6e9156c2f0c/out/bootstrap.js:5:377)
+    at process.emit (events.js:223:5)
+[12:54:27] [127.0.0.1][fd08bc06][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[12:54:27] [127.0.0.1][b4dd6eba][ExtensionHostConnection] New connection established.
+[12:54:27] [127.0.0.1][1597ff4f][ManagementConnection] New connection established.
+[12:54:27] [127.0.0.1][b4dd6eba][ExtensionHostConnection] <50146> Launched Extension Host Process.
+[12:54:27] Listing 2 persistent terminals, 2 total terminals
+[12:54:28] [File Watcher (chokidar)] Error: ELOOP: too many symbolic links encountered, stat '/home/gruppe13/nettside/nettside'
+[12:54:32] Replaying 4588 chars and 4 size events.
+[12:54:32] Replaying 3543 chars and 1 size events.
+[12:59:27] [127.0.0.1][fd08bc06][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[12:59:29] [127.0.0.1][d3b7a721][ExtensionHostConnection] <102907> Extension Host Process exited with code: 0, signal: null.

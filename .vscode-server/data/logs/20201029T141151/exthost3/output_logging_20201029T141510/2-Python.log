@@ -1,0 +1,131 @@
+User belongs to experiment group 'ShowPlayIcon - start'
+User belongs to experiment group 'DebugAdapterFactory - experiment'
+User belongs to experiment group 'PtvsdWheels37 - experiment'
+User belongs to experiment group 'UseTerminalToGetActivatedEnvVars - control'
+User belongs to experiment group 'LocalZMQKernel - experiment'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+User belongs to experiment group 'EnableIPyWidgets - experiment'
+User belongs to experiment group 'RunByLine - control'
+User belongs to experiment group 'CustomEditorSupport - control'
+User belongs to experiment group 'pythonaa'
+> conda --version
+> pyenv root
+> python3.7 ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3.6 ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python2 ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> conda info --json
+> python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> pyenv root
+Error 2020-10-29 14:15:14: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://ssh-remote+innovasjon.ed.ntnu.no/home/gruppe13/.config/Code/User/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/gruppe13/.config/Code/User/settings.json')
+	at _handleError (/home/gruppe13/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/out/vs/server/remoteExtensionHostProcess.js:750:473)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async y.readText (/home/gruppe13/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:9:168994)
+	at async p.doesFileNeedToBeFixed (/home/gruppe13/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:963651)
+	at async /home/gruppe13/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:962778
+	at async Promise.all (index 0)
+	at async p.getFilesToBeFixed (/home/gruppe13/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:962724)
+	at async p.updateTestSettings (/home/gruppe13/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:962351)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}
+Error 2020-10-29 14:15:14: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://ssh-remote+innovasjon.ed.ntnu.no/home/gruppe13/elsysapp/.vscode/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/gruppe13/elsysapp/.vscode/settings.json')
+	at _handleError (/home/gruppe13/.vscode-server/bin/d2e414d9e4239a252d1ab117bd7067f125afd80a/out/vs/server/remoteExtensionHostProcess.js:750:473)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async y.readText (/home/gruppe13/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:9:168994)
+	at async p.doesFileNeedToBeFixed (/home/gruppe13/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:963651)
+	at async /home/gruppe13/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:962778
+	at async Promise.all (index 1)
+	at async p.getFilesToBeFixed (/home/gruppe13/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:962724)
+	at async p.updateTestSettings (/home/gruppe13/.vscode-server/extensions/ms-python.python-2020.10.332292344/out/client/extension.js:56:962351)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> /usr/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /usr/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /usr/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> /usr/bin/python ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+Starting Jedi Python language engine.
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+Error 2020-10-29 14:15:15: Diagnostic Code: InvalidPythonInterpreterDiagnostic, Message: No Python interpreter is selected. You need to select a Python interpreter to enable features such as IntelliSense, linting, and debugging.
+Diagnostic Code: InvalidPythonInterpreterDiagnostic, Message: No Python interpreter is selected. You need to select a Python interpreter to enable features such as IntelliSense, linting, and debugging.
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py pylint --load-plugins=pylint_django --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/elsysapp/views.py
+cwd: ~/elsysapp
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py pylint --load-plugins=pylint_django --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/elsysapp/views.py
+cwd: ~/elsysapp
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import pylint"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import pylint"
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: spawn C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ENOENT
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.prefix)"
+cwd: ~/elsysapp
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.prefix)"
+cwd: ~/elsysapp
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+cwd: ~/elsysapp
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+cwd: ~/elsysapp
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: ~/elsysapp
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: ~/elsysapp
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py site --user-site
+cwd: ~/elsysapp
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py site --user-site
+cwd: ~/elsysapp
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py pylint --load-plugins=pylint_django --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/elsysapp/models.py
+cwd: ~/elsysapp
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py pylint --load-plugins=pylint_django --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/elsysapp/models.py
+cwd: ~/elsysapp
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import pylint"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import pylint"
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: spawn C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ENOENT
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py pylint --load-plugins=pylint_django --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/elsysapp/models.py
+cwd: ~/elsysapp
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py pylint --load-plugins=pylint_django --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/elsysapp/models.py
+cwd: ~/elsysapp
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import pylint"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import pylint"
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: spawn C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ENOENT
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\Users\Sofie Eikeland\AppData\Local\Programs\Python\Python38\python.exe ~/.vscode-server/extensions/ms-python.python-2020.10.332292344/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"

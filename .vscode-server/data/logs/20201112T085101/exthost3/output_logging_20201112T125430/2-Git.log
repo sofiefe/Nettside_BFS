@@ -1,0 +1,8 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/gruppe13
+> git status -z -u
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git check-ignore -v -z --stdin

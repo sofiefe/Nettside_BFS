@@ -1,0 +1,61 @@
+[2020-10-29 14:11:52.072] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-10-29 14:11:52.072] [remoteagent] [info] Extension host agent started.
+[2020-10-29 14:11:55.368] [remoteagent] [info] [127.0.0.1][22fc31a2][ManagementConnection] New connection established.
+[2020-10-29 14:11:55.371] [remoteagent] [info] [127.0.0.1][3f30a761][ExtensionHostConnection] New connection established.
+[2020-10-29 14:11:55.512] [remoteagent] [info] [127.0.0.1][3f30a761][ExtensionHostConnection] <72743> Launched Extension Host Process.
+[2020-10-29 14:12:14.928] [remoteagent] [info] [127.0.0.1][22fc31a2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-10-29 14:12:15.997] [remoteagent] [info] [127.0.0.1][3f30a761][ExtensionHostConnection] <72743> Extension Host Process exited with code: 0, signal: null.
+[2020-10-29 14:12:15.998] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-10-29 14:12:23.299] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-10-29 14:12:23.299] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-10-29 14:12:23.516] [remoteagent] [info] [127.0.0.1][a0206fdb][ManagementConnection] New connection established.
+[2020-10-29 14:12:23.517] [remoteagent] [info] [127.0.0.1][7d7f73ff][ExtensionHostConnection] New connection established.
+[2020-10-29 14:12:23.525] [remoteagent] [info] [127.0.0.1][7d7f73ff][ExtensionHostConnection] <74389> Launched Extension Host Process.
+[2020-10-29 14:12:23.883] [remoteagent] [warning] [File Watcher (chokidar)] Error: ELOOP: too many symbolic links encountered, stat '/home/gruppe13/nettside/nettside'
+[2020-10-29 14:13:30.723] [remoteagent] [info] [127.0.0.1][a0206fdb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-10-29 14:13:31.756] [remoteagent] [info] [127.0.0.1][7d7f73ff][ExtensionHostConnection] <74389> Extension Host Process exited with code: 0, signal: null.
+[2020-10-29 14:13:31.756] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-10-29 14:13:31.756] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-10-29 14:13:38.495] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-10-29 14:13:38.496] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-10-29 14:13:38.708] [remoteagent] [info] [127.0.0.1][749c395e][ExtensionHostConnection] New connection established.
+[2020-10-29 14:13:38.709] [remoteagent] [info] [127.0.0.1][6f953648][ManagementConnection] New connection established.
+[2020-10-29 14:13:38.718] [remoteagent] [info] [127.0.0.1][749c395e][ExtensionHostConnection] <79123> Launched Extension Host Process.
+[2020-10-29 14:14:52.592] [remoteagent] [info] Installing extension: ms-python.python
+[2020-10-29 14:14:58.944] [remoteagent] [info] Downloaded extension: ms-python.python undefined
+[2020-10-29 14:15:08.649] [remoteagent] [info] Extracted extension to /home/gruppe13/.vscode-server/extensions/.ms-python.python-2020.10.332292344: ms-python.python
+[2020-10-29 14:15:08.650] [remoteagent] [info] Renamed to /home/gruppe13/.vscode-server/extensions/ms-python.python-2020.10.332292344
+[2020-10-29 14:15:08.662] [remoteagent] [info] Installation completed. ms-python.python
+[2020-10-29 14:15:08.871] [remoteagent] [info] Extensions installed successfully: ms-python.python
+[2020-10-29 14:18:38.497] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-10-29 14:57:19.619] [remoteagent] [info] [127.0.0.1][6f953648][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-10-29 14:57:20.682] [remoteagent] [info] [127.0.0.1][749c395e][ExtensionHostConnection] <79123> Extension Host Process exited with code: 0, signal: null.
+[2020-10-29 14:57:20.683] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-10-29 14:58:02.484] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-10-29 14:58:02.484] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-10-29 14:58:02.632] [remoteagent] [info] [127.0.0.1][70e18560][ManagementConnection] New connection established.
+[2020-10-29 14:58:02.634] [remoteagent] [info] [127.0.0.1][c20be121][ExtensionHostConnection] New connection established.
+[2020-10-29 14:58:02.650] [remoteagent] [info] [127.0.0.1][c20be121][ExtensionHostConnection] <109425> Launched Extension Host Process.
+[2020-10-29 14:58:40.074] [remoteagent] [info] [127.0.0.1][70e18560][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-10-29 14:58:41.107] [remoteagent] [info] [127.0.0.1][c20be121][ExtensionHostConnection] <109425> Extension Host Process exited with code: 0, signal: null.
+[2020-10-29 14:58:41.107] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-10-29 14:58:41.107] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-10-29 14:59:02.932] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-10-29 14:59:02.933] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-10-29 14:59:03.080] [remoteagent] [info] [127.0.0.1][393b950e][ExtensionHostConnection] New connection established.
+[2020-10-29 14:59:03.081] [remoteagent] [info] [127.0.0.1][0eb7efc4][ManagementConnection] New connection established.
+[2020-10-29 14:59:03.094] [remoteagent] [info] [127.0.0.1][393b950e][ExtensionHostConnection] <112975> Launched Extension Host Process.
+[2020-10-29 14:59:09.093] [remoteagent] [info] [127.0.0.1][0eb7efc4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-10-29 14:59:10.151] [remoteagent] [info] [127.0.0.1][393b950e][ExtensionHostConnection] <112975> Extension Host Process exited with code: 0, signal: null.
+[2020-10-29 14:59:10.151] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-10-29 14:59:10.151] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-10-29 15:04:10.153] [remoteagent] [info] Last EH closed, shutting down
