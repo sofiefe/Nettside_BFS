@@ -1,0 +1,42 @@
+# Denne viminfo-filen ble generert av Vim 8.1.
+# Du kan redigere den hvis du er forsiktig!
+
+# Viminfo version
+|1,4
+
+# Verdien av 'encoding' når denne filen ble skrevet
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Kommandolinje-historie (nyeste til eldste):
+:qa!
+|2,0,1605188194,,"qa!"
+
+# Søkestreng-historie (nyeste til eldste):
+
+# Uttrykk-historie (nyeste til eldste):
+
+# Inndatalinje-historie (nyeste til eldste):
+
+# Fejlretningslinje-historie (nyeste til eldste):
+
+# Registere:
+"a	CHAR	0
+	!
+|3,0,10,0,1,0,1605188183,"!"
+
+# Filmerker:
+'0  1  0  ~/.ssh/config
+|4,48,1,0,1605188194,"~/.ssh/config"
+
+# Hoppliste (nyeste først):
+-'  1  0  ~/.ssh/config
+|4,39,1,0,1605188194,"~/.ssh/config"
+
+# Historie for merker inne i filer (yngst til eldst):
+
+> ~/.ssh/config
+	*	1605188192	0
+	"	1	0

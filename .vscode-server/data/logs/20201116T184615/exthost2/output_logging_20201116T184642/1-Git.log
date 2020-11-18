@@ -1,0 +1,117 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/gruppe13
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse init
+> git rev-parse --symbolic-full-name init@{u}
+fatal: no upstream configured for branch 'init'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :elsysapp/templates/elsysapp/index.html
+> git ls-files --stage -- /home/gruppe13/elsysapp/templates/elsysapp/index.html
+> git show --textconv :elsysapp/models.py
+> git ls-files --stage -- /home/gruppe13/elsysapp/models.py
+> git cat-file -s c6fca8df42a32615587962f8eb773609e18247bf
+> git cat-file -s 0969c96938e5b850ca612ae621c86d34a215b6e4
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git show --textconv :elsysapp/views.py
+> git ls-files --stage -- /home/gruppe13/elsysapp/views.py
+> git cat-file -s fb5ca9904d5b08b465dadaa2a651f44193024614
+> git rev-parse init
+> git show --textconv :elsysapp/templates/elsysapp/index.html
+> git ls-files --stage -- /home/gruppe13/elsysapp/templates/elsysapp/index.html
+> git rev-parse --symbolic-full-name init@{u}
+fatal: no upstream configured for branch 'init'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git cat-file -s 0969c96938e5b850ca612ae621c86d34a215b6e4
+> git config --get commit.template
+> git show --textconv :elsysapp/views.py
+> git ls-files --stage -- /home/gruppe13/elsysapp/views.py
+> git cat-file -s fb5ca9904d5b08b465dadaa2a651f44193024614
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse init
+> git rev-parse --symbolic-full-name init@{u}
+fatal: no upstream configured for branch 'init'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :elsysapp/models.py
+> git ls-files --stage -- /home/gruppe13/elsysapp/models.py
+> git cat-file -s c6fca8df42a32615587962f8eb773609e18247bf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse init
+> git rev-parse --symbolic-full-name init@{u}
+fatal: no upstream configured for branch 'init'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse init
+> git rev-parse --symbolic-full-name init@{u}
+fatal: no upstream configured for branch 'init'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :nettside/settings.py
+> git ls-files --stage -- /home/gruppe13/nettside/settings.py
+> git cat-file -s 70eef0178365ad1ae87aa9e895029d8217835539
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse init
+> git rev-parse --symbolic-full-name init@{u}
+fatal: no upstream configured for branch 'init'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse init
+> git rev-parse --symbolic-full-name init@{u}
+fatal: no upstream configured for branch 'init'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse init
+> git rev-parse --symbolic-full-name init@{u}
+fatal: no upstream configured for branch 'init'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse init
+> git rev-parse --symbolic-full-name init@{u}
+fatal: no upstream configured for branch 'init'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse init
+> git rev-parse --symbolic-full-name init@{u}
+fatal: no upstream configured for branch 'init'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse init
+> git rev-parse --symbolic-full-name init@{u}
+fatal: no upstream configured for branch 'init'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose

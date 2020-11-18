@@ -368,3 +368,20 @@ Error 2020-11-12 14:00:11: stderr jediProxy Error (stderr) /home/gruppe13/.vscod
 
 > pyenv root
 > pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py pylint --load-plugins=pylint_django --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/elsysapp/views.py
+cwd: ~/
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py pylint --load-plugins=pylint_django --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/elsysapp/views.py
+cwd: ~/
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py pylint --load-plugins=pylint_django --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/elsysapp/models.py
+cwd: ~/
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py pylint --load-plugins=pylint_django --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/elsysapp/models.py
+cwd: ~/
+> pyenv root
+> pyenv root
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+> pyenv root

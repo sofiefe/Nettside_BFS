@@ -149,3 +149,165 @@ source /home/gruppe13/venv/bin/activate
 exit
 source /home/gruppe13/venv/bin/activate
 exit()
+source /home/gruppe13/venv/bin/activate
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+makemigrations
+python manage.py makemigration
+python manage.py makemigrations
+reload
+python manage.py migrate
+reload
+python manage.py flush
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+python manage.py shell
+scp
+scp -r user@host:C:/
+scp -help
+scp --h
+scp -h
+scp -r
+scp -r user@host
+scp -r user@host:./ C:/
+scp -r gruppe13@host:./ C:/
+scp -r SSH@innovasjon.ed.ntnu.no:./ C:/
+scp -r gruppe13@innovasjon.ed.ntnu.no:./ C:/
+scp -r gruppe13@innovasjon.ed.ntnu.no:./ C:
+scp -r gruppe13@innovasjon.ed.ntnu.no:./ C:\
+scp -r gruppe13@innovasjon.ed.ntnu.no:./ C:\
+scp -r gruppe13@innovasjon:./ C:\
+ls
+exit() ls
+help
+scp -r ./ Sofie Eikeland@localhost:C:
+scp -r ./ @localhost:C:
+git
+git add -A
+git init
+git add -A
+git commit
+git config user.email "sofiefe@stud.ntnu.no"
+git config user.name "sofiefe"
+git commit
+git push
+git push PosBom Nettside
+git remote add
+git remote add origin https://github.com/user/repo.git
+git remote add origin https://github.com/sofiefe/Nettside_BFS.git
+git remote add master https://github.com/sofiefe/Nettside_BFS.git
+git push
+git push -u origin master
+git push -u origin master
+git push -u origin master
+git remote add master https://github.com/sofiefe/Nettside_BFS.git
+git remote add master https://github.com/sofiefe/Nettside_BFS.git
+git remote add init https://github.com/sofiefe/Nettside_BFS.git
+git push -u origin init
+git remote remove origin
+git push -u origin init
+git remote add init https://github.com/sofiefe/Nettside_BFS.git
+git remote
+git remote remove master
+git push -u origin init
+git remote remove init
+git remote add master https://github.com/sofiefe/Nettside_BFS.git
+git push -u origin init
+git push -u master init
+git push -u master
+git push -u master master
+git pull
+git pull master master
+git push -u master master
+git push -u origin master
+git remote remove master
+git remote add origin https://github.com/sofiefe/Nettside_BFS.git
+git push -u origin master
+git remote
+git pull
+git pull master origin
+git remote remove
+git remote remove origin
+git remote
+git remote add
+git remote add origin https://github.com/sofiefe/Nettside_BFS.git
+git push -u origin master
+git remote remove origin
+git remote add git@github.com:sofiefe/Nettside_BFS
+git remote add origin git@github.com:sofiefe/Nettside_BFS
+git push -u origin maste
+git push -u origin master
+git push -u origin master
+ssh-keygen
+vim ~/.ssh/config
+git push -u origin master
+git checkout -b init
+git push -u origin master
+git pull
+git pull origin
+git pull origin init
+git pull origin master
+git push -u origin master
+git push -f -u origin master
+reload
+reload
+reload
+chmod 664 database
+ls
+ls -l
+ls
+cd nettside/
+ls
+cd ..
+ls
+chmod 664 database
+chmod 664 database/db.sqlite3 
+reload
+ls -l
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+reload
+chmod 664 database/db.sqlite3 
+reload
+chmod 664 database/
+reload
+chmod 777 database/
+reload
+chmod 777 database/db.sqlite3 
+reload
+reload
+source venv/bin/activate
+python manage.py shell
+reload
+python manage.py shell
+reload
+reload
+reload
+reload

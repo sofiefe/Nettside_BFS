@@ -1,0 +1,25 @@
+[2020-11-18 12:31:45.353] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-11-18 12:31:45.353] [remoteagent] [info] Extension host agent started.
+[2020-11-18 12:31:45.941] [remoteagent] [info] [127.0.0.1][4e51c918][ManagementConnection] New connection established.
+[2020-11-18 12:31:45.962] [remoteagent] [info] [127.0.0.1][1e4bd3ed][ExtensionHostConnection] New connection established.
+[2020-11-18 12:31:46.135] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-11-18 12:31:46.910] [remoteagent] [info] [127.0.0.1][1e4bd3ed][ExtensionHostConnection] <111204> Launched Extension Host Process.
+[2020-11-18 12:31:50.725] [remoteagent] [info] Installing extension: ms-python.python
+[2020-11-18 12:31:53.538] [remoteagent] [info] Downloaded extension: ms-python.python undefined
+[2020-11-18 12:32:34.549] [remoteagent] [info] Extracted extension to /home/gruppe13/.vscode-server/extensions/.ms-python.python-2020.11.367453362: ms-python.python
+[2020-11-18 12:32:34.554] [remoteagent] [info] Renamed to /home/gruppe13/.vscode-server/extensions/ms-python.python-2020.11.367453362
+[2020-11-18 12:32:34.598] [remoteagent] [info] Installation completed. ms-python.python
+[2020-11-18 12:32:35.247] [remoteagent] [info] Extensions installed successfully: ms-python.python
+[2020-11-18 13:04:38.232] [remoteagent] [info] [127.0.0.1][4e51c918][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2020-11-18 14:32:56.002] [remoteagent] [info] [127.0.0.1][4e51c918][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2020-11-18 14:32:56.011] [remoteagent] [info] [127.0.0.1][4e51c918][ManagementConnection] The client has reconnected.
+[2020-11-18 14:32:56.024] [remoteagent] [info] [127.0.0.1][1e4bd3ed][ExtensionHostConnection] The client has reconnected.

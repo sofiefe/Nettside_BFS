@@ -1,0 +1,24 @@
+[2020-11-17 10:43:19.036] [exthost] [info] extension host started
+[2020-11-17 10:43:19.341] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2020-11-17 10:43:19.345] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/extensions/ms-toolsai.jupyter-2020.11.358541065/out/client/extension
+[2020-11-17 10:43:21.556] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-11-17 10:43:21.558] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/debug-auto-launch/dist/extension
+[2020-11-17 10:43:21.575] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-11-17 10:43:21.576] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/emmet/dist/node/emmetNodeMain
+[2020-11-17 10:43:21.791] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-17 10:43:21.792] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/git/dist/main
+[2020-11-17 10:43:22.034] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-11-17 10:43:22.034] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/merge-conflict/dist/mergeConflictMain
+[2020-11-17 10:43:22.051] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-11-17 10:43:22.051] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/search-result/dist/extension.js
+[2020-11-17 10:43:29.011] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2020-11-17 10:43:29.011] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/extensions/ms-python.python-2020.11.358366026/out/client/extension
+[2020-11-17 10:43:31.331] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-17 10:43:31.333] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/github/dist/extension.js
+[2020-11-17 10:43:31.693] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2020-11-17 10:43:31.693] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/ms-vscode.js-debug/src/extension.js
+[2020-11-17 10:43:33.710] [exthost] [info] eager extensions activated
+[2020-11-17 10:43:40.074] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4092
+[2020-11-17 10:46:43.422] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-11-17 10:46:43.424] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/gruppe13/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/extensions/html-language-features/client/dist/node/htmlClientMain
+[2020-11-17 11:46:49.076] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 4101

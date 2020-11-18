@@ -1,0 +1,30 @@
+[2020-11-16 18:46:15.666] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-11-16 18:46:15.666] [remoteagent] [info] Extension host agent started.
+[2020-11-16 18:46:15.949] [remoteagent] [info] [127.0.0.1][f85dd04f][ManagementConnection] New connection established.
+[2020-11-16 18:46:15.964] [remoteagent] [info] [127.0.0.1][4e37c6a5][ExtensionHostConnection] New connection established.
+[2020-11-16 18:46:16.958] [remoteagent] [info] [127.0.0.1][4e37c6a5][ExtensionHostConnection] <17495> Launched Extension Host Process.
+[2020-11-16 18:46:23.888] [remoteagent] [info] Deleted from disk ms-python.python /home/gruppe13/.vscode-server/extensions/ms-python.python-2020.10.332292344
+[2020-11-16 18:46:26.812] [remoteagent] [info] [127.0.0.1][f85dd04f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-11-16 18:46:29.629] [remoteagent] [info] [127.0.0.1][4e37c6a5][ExtensionHostConnection] <17495> Extension Host Process exited with code: 0, signal: null.
+[2020-11-16 18:46:29.634] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-11-16 18:46:36.823] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-11-16 18:46:36.825] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-11-16 18:46:37.054] [remoteagent] [info] [127.0.0.1][305a8bc4][ManagementConnection] New connection established.
+[2020-11-16 18:46:37.077] [remoteagent] [info] [127.0.0.1][7ef64c5c][ExtensionHostConnection] New connection established.
+[2020-11-16 18:46:37.145] [remoteagent] [info] [127.0.0.1][7ef64c5c][ExtensionHostConnection] <17779> Launched Extension Host Process.
+[2020-11-16 18:46:37.209] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-11-16 18:46:39.793] [remoteagent] [warning] [File Watcher (chokidar)] Error: ELOOP: too many symbolic links encountered, stat '/home/gruppe13/nettside/nettside'
+[2020-11-16 18:51:03.546] [remoteagent] [info] [127.0.0.1][305a8bc4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-11-16 18:51:06.452] [remoteagent] [info] [127.0.0.1][7ef64c5c][ExtensionHostConnection] <17779> Extension Host Process exited with code: 0, signal: null.
+[2020-11-16 18:51:06.453] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-11-16 18:51:06.453] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-11-16 18:56:06.459] [remoteagent] [info] Last EH closed, shutting down

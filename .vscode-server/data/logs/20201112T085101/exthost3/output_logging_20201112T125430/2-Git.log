@@ -6,3 +6,117 @@ Open repository: /home/gruppe13
 > git show --textconv :wsgi.py
 > git ls-files --stage -- /home/gruppe13/wsgi.py
 > git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git ls-files --stage -- /home/gruppe13/wsgi.py
+> git cat-file -s 146f187e5c8ad2c7747d204a2ddade2634641774
+> git show --textconv :wsgi.py
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :.ssh/id_rsa
+> git ls-files --stage -- /home/gruppe13/.ssh/id_rsa
+> git show --textconv :.ssh/id_rsa.pub
+> git ls-files --stage -- /home/gruppe13/.ssh/id_rsa.pub
+> git show --textconv :.ssh/id_rsa
+> git ls-files --stage -- /home/gruppe13/.ssh/id_rsa
+> git show --textconv :.ssh/id_rsa.pub
+> git ls-files --stage -- /home/gruppe13/.ssh/id_rsa.pub
+> git ls-files --stage -- /home/gruppe13/.ssh/id_rsa.pub
+> git show --textconv :.ssh/id_rsa.pub
+> git ls-files --stage -- /home/gruppe13/.ssh/id_rsa.pub
+> git show --textconv :.ssh/id_rsa.pub
+> git ls-files --stage -- /home/gruppe13/.ssh/id_rsa.pub
+> git show --textconv :.ssh/id_rsa.pub
+> git ls-files --stage -- /home/gruppe13/.ssh/id_rsa.pub
+> git show --textconv :.ssh/id_rsa.pub
+> git ls-files --stage -- /home/gruppe13/.ssh/id_rsa.pub
+> git show --textconv :.ssh/id_rsa.pub
+> git ls-files --stage -- /home/gruppe13/.ssh/id_rsa.pub
+> git show --textconv :.ssh/id_rsa.pub
+> git ls-files --stage -- /home/gruppe13/.ssh/id_rsa.pub
+> git show --textconv :.ssh/id_rsa.pub
+> git ls-files --stage -- /home/gruppe13/.ssh/id_rsa.pub
+> git show --textconv :.ssh/id_rsa.pub
+> git ls-files --stage -- /home/gruppe13/.ssh/id_rsa.pub
+> git show --textconv :.ssh/id_rsa.pub
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/gruppe13/.ssh/id_rsa.pub
+> git show --textconv :elsysapp/templates/elsysapp/index.html
+> git ls-files --stage -- /home/gruppe13/elsysapp/templates/elsysapp/index.html
+> git cat-file -s 0969c96938e5b850ca612ae621c86d34a215b6e4
+> git check-ignore -v -z --stdin

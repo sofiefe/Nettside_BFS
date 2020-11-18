@@ -1,0 +1,125 @@
+User belongs to experiment group 'ShowPlayIcon - start'
+User belongs to experiment group 'DebugAdapterFactory - experiment'
+User belongs to experiment group 'PtvsdWheels37 - experiment'
+User belongs to experiment group 'UseTerminalToGetActivatedEnvVars - control'
+User belongs to experiment group 'LocalZMQKernel - experiment'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+User belongs to experiment group 'EnableIPyWidgets - experiment'
+User belongs to experiment group 'RunByLine - experiment'
+User belongs to experiment group 'CustomEditorSupport - control'
+User belongs to experiment group 'pythonaa'
+> conda --version
+> pyenv root
+> python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3.6 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python2 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> conda info --json
+> python ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+Error 2020-11-16 18:47:32: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://ssh-remote+innovasjon.ed.ntnu.no/home/gruppe13/.config/Code/User/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/gruppe13/.config/Code/User/settings.json')
+	at _handleError (/home/gruppe13/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/out/vs/server/remoteExtensionHostProcess.js:754:838)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async y.readText (/home/gruppe13/.vscode-server/extensions/ms-python.python-2020.11.358366026/out/client/extension.js:9:152841)
+	at async p.doesFileNeedToBeFixed (/home/gruppe13/.vscode-server/extensions/ms-python.python-2020.11.358366026/out/client/extension.js:39:468556)
+	at async /home/gruppe13/.vscode-server/extensions/ms-python.python-2020.11.358366026/out/client/extension.js:39:467683
+	at async Promise.all (index 0)
+	at async p.getFilesToBeFixed (/home/gruppe13/.vscode-server/extensions/ms-python.python-2020.11.358366026/out/client/extension.js:39:467629)
+	at async p.updateTestSettings (/home/gruppe13/.vscode-server/extensions/ms-python.python-2020.11.358366026/out/client/extension.js:39:467256)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}
+Error 2020-11-16 18:47:32: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://ssh-remote+innovasjon.ed.ntnu.no/home/gruppe13/.vscode/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/gruppe13/.vscode/settings.json')
+	at _handleError (/home/gruppe13/.vscode-server/bin/e5a624b788d92b8d34d1392e4c4d9789406efe8f/out/vs/server/remoteExtensionHostProcess.js:754:838)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async y.readText (/home/gruppe13/.vscode-server/extensions/ms-python.python-2020.11.358366026/out/client/extension.js:9:152841)
+	at async p.doesFileNeedToBeFixed (/home/gruppe13/.vscode-server/extensions/ms-python.python-2020.11.358366026/out/client/extension.js:39:468556)
+	at async /home/gruppe13/.vscode-server/extensions/ms-python.python-2020.11.358366026/out/client/extension.js:39:467683
+	at async Promise.all (index 1)
+	at async p.getFilesToBeFixed (/home/gruppe13/.vscode-server/extensions/ms-python.python-2020.11.358366026/out/client/extension.js:39:467629)
+	at async p.updateTestSettings (/home/gruppe13/.vscode-server/extensions/ms-python.python-2020.11.358366026/out/client/extension.js:39:467256)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py pylint --load-plugins=pylint_django --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/elsysapp/models.py
+cwd: ~/
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py pylint --load-plugins=pylint_django --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/elsysapp/models.py
+cwd: ~/
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py pylint --load-plugins=pylint_django --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/elsysapp/views.py
+cwd: ~/
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py pylint --load-plugins=pylint_django --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/elsysapp/views.py
+cwd: ~/
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py pylint --load-plugins=pylint_django --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/elsysapp/urls.py
+cwd: ~/
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py pylint --load-plugins=pylint_django --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/elsysapp/urls.py
+cwd: ~/
+> pyenv root
+> pyenv root
+> pyenv root
+Python interpreter path: ./venv/bin/python3.7
+Starting Jedi Python language engine.
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.prefix)"
+cwd: ~/
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.prefix)"
+cwd: ~/
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+cwd: ~/
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+cwd: ~/
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: ~/
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())"
+cwd: ~/
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py site --user-site
+cwd: ~/
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py site --user-site
+cwd: ~/
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/completion.py
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/completion.py
+> conda --version
+Error 2020-11-16 18:47:42: stderr jediProxy Error (stderr) /home/gruppe13/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/completion.py:587: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  all_scopes=True,
+
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> pyenv root
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py pylint --load-plugins=pylint_django --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/nettside/settings.py
+cwd: ~/
+> ~/venv/bin/python3.7 ~/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/pyvsc-run-isolated.py pylint --load-plugins=pylint_django --msg-template='{line},{column},{category},{symbol}:{msg}' --reports=n --output-format=text ~/nettside/settings.py
+cwd: ~/
+> pyenv root
+> pyenv root
+> pyenv root
+Error 2020-11-16 18:47:47: stderr jediProxy Error (stderr) /home/gruppe13/.vscode-server/extensions/ms-python.python-2020.11.358366026/pythonFiles/completion.py:587: DeprecationWarning: Deprecated since version 0.16.0. Use Script(...).get_names instead.
+  all_scopes=True,
+
+> pyenv root
+##########Linting Output - pylint##########

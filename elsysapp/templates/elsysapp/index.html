@@ -14,6 +14,8 @@
 		
 	</head>
 	<body>
+        <div style="width:1000px;">
+          
 		<header>
 			<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 				<ul class="navbar-nav mr-auto">
@@ -22,29 +24,47 @@
 				</ul>
 			</nav>
 		</header>
-		<h1>Bompengebrikke for sykkel</h1>
-		<h3>-utviklet av gruppe 13</h3>
-		<p>Dette skal være en visuell presentasjon av data vi samler og vil presentere til bruker</p>
-            	<table>
+		<h1>POSBOM - Positiv bombrikke for sykkel</h1>
+        <h3>-utviklet av gruppe 13</h3>
+        <hr>
+
+        <div style="width:500px; float:left;">
+        <h2>Om prosjektet</h2>
+        <p>Vi har fått i oppgave av Miljøpakken å utvikle en prototype som skal få flere folk i Trondheim til å gå eller sykle
+            i stedet for å kjøre bil. Vi har løst dette ved å lage en "postitiv bombrikke". Tanken er at en bruker skal feste
+            bombrikken på sykkelen, og når brukeren passerer en bomstasjon med sykkelen får hen poeng for å ha syklet i stede for å kjøre.
+            Denne nettsiden er for å demonstrere vår første prototype av dette prosjektet.
+        </p>
+        <hr>
+        <img src="https://res.cloudinary.com/dn48u8zii/image/upload/v1605609896/System_konsept_-5_clmyg9.jpg" 
+        alt="Konsept bilde" width="100%" height="100%">
+        </div>
+        <div style="width:400px; float:right;">
+        <h2>Data-tabell</h2>
+        <p>Denne tabellen viser når bombrikken har passert bomstasjon, og viser hvert tilfelle med 8-sifret ID, dato og tidspunkt.
+            Tabellen viser de 50 nyeste passeringene, sortert fra nyeste til eldst.
+        </p>
+            	<table border="1">
                 <thead>
                   <tr>
-                    <th>ID</th>
-                    <th>Dato</th>
-                    <th>Timestamp</th>
+                    <th style="padding:0 15px 0 15px;">ID</th>
+                    <th style="padding:0 15px 0 15px;">Dato</th>
+                    <th style="padding:0 15px 0 15px;">Timestamp</th>
                   </tr>
                 </thead>
                 {% for sensor in all_sensor_data %}
                     <tbody>
                     <tr>
-                        <td>{{sensor.sensor_id}}</td>
-						<td>{{sensor.datestamp}}</td>
-						<td>{{sensor.timestamp}}</td>
+                        <td style="padding:0 15px 0 15px;">{{sensor.sensor_id}}</td>
+						<td style="padding:0 15px 0 15px;">{{sensor.datestamp}}</td>
+						<td style="padding:0 15px 0 15px;">{{sensor.timestamp}}</td>
                     </tr>
                     </tbody>
                 {% endfor %}
                 </table>
-		<img src="https://res.cloudinary.com/dn48u8zii/image/upload/v1601538049/ELSYS_Forelesning-20_g0o40m.jpg" 
-		alt="Konsept bilde" width="50%" height="50%">
+            </div>
+        </div>
+        <div style="clear: both;"></div>
 	</body>
 </html>
 
